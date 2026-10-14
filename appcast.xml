@@ -6,5 +6,14 @@
         <description>CoMeet updates</description>
         <language>da</language>
         <!-- ITEMS -->
+        <item>
+            <title>CoMeet 0.6</title>
+            <pubDate>Wed, 14 Oct 2026 05:18:03 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Første version med automatiske opdateringer. Optag fysiske møder og onlinemøder (Teams, Slack). Opsummering og to-dos med Gemma 4.</p>]]></description>
+            <enclosure url="https://github.com/frederikroemming09/CoMeet-releases/releases/download/v0.6/CoMeet.zip" sparkle:edSignature="0UxxfRmYUx1qqAWW7w+uW4hvoL7TJ0Gwdtvd+9BcKSDlFSSsXYc+sJXVBOBOJzbg6cuwyS7pyRs/ZQ1tOe6KAA==" length="17723179" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
