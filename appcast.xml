@@ -7,6 +7,15 @@
         <language>da</language>
         <!-- ITEMS -->
         <item>
+            <title>CoMeet 0.8</title>
+            <pubDate>Wed, 14 Oct 2026 09:06:19 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Optag dette opkald?: CoMeet spørger, når et Teams- eller Slack-opkald starter, og stopper selv bagefter. Mødenavn og deltagere fra Kalender. Optagelser gemmes, selv hvis CoMeet går ned.</p>]]></description>
+            <enclosure url="https://github.com/frederikroemming09/CoMeet-releases/releases/download/v0.8/CoMeet.zip" sparkle:edSignature="oR2AOdftg5N/S7SCCjvAdnjy3ttZOevcy/x+2Y/wBCQJn8E9YzK8RcpZ5e3iR39GEo6XCm4UbhvTEYeuuRa9Bg==" length="17816201" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>CoMeet 0.7</title>
             <pubDate>Wed, 14 Oct 2026 08:03:26 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
