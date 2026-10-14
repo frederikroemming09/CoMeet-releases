@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CoMeet</title>
+        <link>https://raw.githubusercontent.com/frederikroemming09/CoMeet-releases/main/appcast.xml</link>
+        <description>CoMeet updates</description>
+        <language>da</language>
+        <!-- ITEMS -->
+    </channel>
+</rss>
