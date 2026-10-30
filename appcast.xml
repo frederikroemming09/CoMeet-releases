@@ -7,6 +7,15 @@
         <language>da</language>
         <!-- ITEMS -->
         <item>
+            <title>CoMeet 0.9</title>
+            <pubDate>Fri, 30 Oct 2026 11:27:00 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Onlinemøder er rettet: stemmerne lyder normalt, de andre forsvinder ikke længere undervejs, og lyden fra højttalerne fjernes fra din mikrofon efter mødet. Du og de andre transskriberes hver for sig, og dine linjer vises under dit navn eller som Mig. Ny velkomst, der hjælper med tilladelser og modeller.</p>]]></description>
+            <enclosure url="https://github.com/frederikroemming09/CoMeet-releases/releases/download/v0.9/CoMeet.zip" sparkle:edSignature="VOOPSfZTIqE4isDlhy70stRRqwa9rahfi8DLgBFH93OZcVpZ2tzsTBmquWyGqGltu24xuh6eTkoPnMezBW/qCQ==" length="18023747" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>CoMeet 0.8</title>
             <pubDate>Wed, 14 Oct 2026 09:06:19 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
