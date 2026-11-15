@@ -7,6 +7,15 @@
         <language>da</language>
         <!-- ITEMS -->
         <item>
+            <title>CoMeet 0.12</title>
+            <pubDate>Sun, 15 Nov 2026 19:35:49 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Nyt ikon: en lydbølge.</p>]]></description>
+            <enclosure url="https://github.com/frederikroemming09/CoMeet-releases/releases/download/v0.12/CoMeet.zip" sparkle:edSignature="2ZVxOhXLlzEwMAiJkWhQKib8CQvlwyQ0B2Gfur5Q7YNHzp+1oI0o8Y+IdMLyAaPnwTcwtYrDUvJvKBgbqLVcAA==" length="19695809" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>CoMeet 0.11</title>
             <pubDate>Sun, 15 Nov 2026 19:27:45 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
