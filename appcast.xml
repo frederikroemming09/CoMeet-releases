@@ -7,6 +7,15 @@
         <language>da</language>
         <!-- ITEMS -->
         <item>
+            <title>CoMeet 0.13</title>
+            <pubDate>Sun, 15 Nov 2026 20:36:49 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>CoMeet kan nu også engelsk og følger sproget på din Mac. Alt andet er som før.</p>]]></description>
+            <enclosure url="https://github.com/frederikroemming09/CoMeet-releases/releases/download/v0.13/CoMeet.zip" sparkle:edSignature="4pHwG80JedgVNSa+c6UWiqcTKPTn1GjIyOLh535153PvTpvUYB2r3vLUNT2k48O4ahK4xLamX3M7AZvRCqM+Aw==" length="19714279" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>CoMeet 0.12</title>
             <pubDate>Sun, 15 Nov 2026 19:35:49 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
